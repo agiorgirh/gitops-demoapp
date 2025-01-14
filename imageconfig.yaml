@@ -12,6 +12,7 @@ metadata:
     name: version
     uid: 9355ddd8-650f-47f8-8c55-b432db845f82
   name: cluster
+  resourceVersion: "2746123"
 spec: {}
 status:
   internalRegistryHostname: image-registry.openshift-image-registry.svc:5000
