@@ -12,5 +12,4 @@ metadata:
     kind: ClusterVersion
     name: version
     uid: 9355ddd8-650f-47f8-8c55-b432db845f82
-  resourceVersion: "2747026"
 spec: {}
