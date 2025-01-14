@@ -6,16 +6,7 @@ metadata:
     include.release.openshift.io/self-managed-high-availability: "true"
     include.release.openshift.io/single-node-developer: "true"
     release.openshift.io/create-only: "true"
-  creationTimestamp: "2025-01-07T09:22:53Z"
-  generation: 1
   name: cluster
-  ownerReferences:
-  - apiVersion: config.openshift.io/v1
-    kind: ClusterVersion
-    name: version
-    uid: 9355ddd8-650f-47f8-8c55-b432db845f82
-  resourceVersion: "28003"
-  uid: 560120af-26b6-40a2-b1b5-ba6fbae9a363
 spec: {}
 status:
   internalRegistryHostname: image-registry.openshift-image-registry.svc:5000
